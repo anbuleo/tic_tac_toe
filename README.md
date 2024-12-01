@@ -1,2 +1,2 @@
----Tic-Tac-Toe---
---only JAvascript--
+--Tic-Tac-Toe--
+__Javascript__
